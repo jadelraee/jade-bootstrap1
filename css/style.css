@@ -1,3 +1,29 @@
 body {
     font-family: "Roboto Condensed", sans-serif;
 }
+
+.alert-container {
+
+}
+
+.callout-container {
+    height: 100vh;
+    background: url(../assets/images/whiskey-background3.jpg) no-repeat bottom right fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.features-container {
+
+}
+
+.quotes-container {
+
+}
